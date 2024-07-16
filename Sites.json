@@ -941,7 +941,7 @@
     "id": "subsource",
     "title": "subsource",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiElEQVQ4T5VTvy9DURQ+57WkYdFFJGKRFGkjERZ/gUnC1MEmjAa2Cm3yXt8Lg8EkJKRLN6PE1r8BTehSC4ZONSCRtu9d3/GK+6qtusmXe35+77vn5DH9nDWYp5qvm+9wFoFCa561wDrsk2bRI249V4d/CJT+IjhCwTJw2UHJr3CrgmNUCIqA0QPJq06w2myWPj3eiacPiSe9cBSBRA9flZJ+wAaGmXK5CNVqBkWjihIJN0AQjytKJj06P5fnKC0XgX0BTDFZ1hmMSVIqKJs5RJ53R9nsG7nuDGo8jUAIpwHMwLKuYUyA4BZ3I1DkuiVynDoI5hAPqvMVVYSgiGZF4fACxWLPVEHs61SrivJ5pnK5dSPifz6LyTRviHkQ2ATRC+7uGzAMplDonlKpB39dpnmFW95YQ7M+qPYLkVkx71Amc+ATWNaKrKOHZg8Kx4ENMowMpdN7PsF/jm3PY6AFENjdCWx7DIVb4B74ViaDZh6BgiUQ7HYncJxZajTk1x1qK5B5GzPYl9wHpEd5v1z1GFcAAAAASUVORK5CYII=",
-    "url": "https://subsource.net/subtitles/{{IMDB_TITLE}}-{{IMDB_YEAR}}",
+    "url": "https://subsource.net/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}",
     "category": "subtitles"
   },
   {
