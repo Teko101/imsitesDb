@@ -17,7 +17,7 @@
     "id": "AZNude",
     "title": "AZNude",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB8UlEQVQ4jZ2SP2gTcRTH3+/ufqHgeTl7TfyDES0iCI2F4lIkYNqUggiihZBFxCpcFyGKQxGU27MU1CEoGayLU6pxcFCX4lhwtUuhditJizlQ6HEfh6BNNELt8FkevA/vve8TEZFsNjustb6bSCQe7AXLsu6NjY2dFhER13Uvmqa5JSL8J98GBwenRWv9eR/NiAhKqS8iIt+7i8lkkomJCXK5HIZhMHRQOHOsl8xQj0h+dAsqlQoAcRxTKBR4fFux/dLqYfWJyYDuI9Bas7a2RrPZBKBWq+EeEE6kOlw+r2i+sHh130CpPoJ8Pk8cx8zPz7O+vk6r1cJ1XUQEyxTeBwYbz01Opf+xQrVaJYoiMpkMCwsLAJRKJUSEO5cUW4sWc9Pqz2N2BI7jsLm5yfLyMiLC+Pg4cRxTr9c5ekj4+szk3UMDbf6VRkdQLBYB2NnZod1uE4YhAO12m+GMx+pTk7PH+8bZESwtLRFFEeVyGd/38X2fRqMBwK2b15nMCkfcDoddweg+YjqdJgxDVlZWMAzjt/3XGm/fvKZ4YTfO1qLFyXSXwHEcZmdnGRkZ6RlPa83MzAzXrl7BHhCmRhVTo4rJc4qEtSvY2O8ri8i2OI5T3q/Atu1HEgSB4XneDc/zPqRSqU97wfO8j7Zt+0EQWD8BHRN6xEnr/XEAAAAASUVORK5CYII=",
-    "url": "https://search.aznude.com/?q={{IMDB_TITLE}}",
+    "url": "https://www.aznude.com/search.html?q={{IMDB_TITLE}}",
     "category": "pub_tracker"
   },
   {
